@@ -1,0 +1,31 @@
+﻿@page
+@model CRUDApp.Pages.Users.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div>
+    <h4>Details of User</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.User.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.User.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.User.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.User.Email)
+        </dd>
+    </dl>
+</div>
+<br />
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.User?.ID" class="btn btn-warning">Edit</a> |
+    <a asp-page="./Index" class="btn btn-outline-primary">Back to List</a>
+</div>
