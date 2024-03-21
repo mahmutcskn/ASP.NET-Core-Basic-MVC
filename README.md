@@ -1,0 +1,7 @@
+![title](https://github.com/Mahmut-Coskun/ASP.NET-Core-Basic-MVC/assets/149428843/282cbc84-75f5-41bd-afab-dc2b52d69fd6)
+![mvc_1](https://github.com/Mahmut-Coskun/ASP.NET-Core-Basic-MVC/assets/149428843/64734cd9-424b-48cf-86b8-3fc493def284)
+![mvc_2](https://github.com/Mahmut-Coskun/ASP.NET-Core-Basic-MVC/assets/149428843/a15d1fb6-8753-4df0-a97d-4c4f9206a3fc)
+![mvc_3](https://github.com/Mahmut-Coskun/ASP.NET-Core-Basic-MVC/assets/149428843/efb06bf3-6d5b-41e3-b28a-d6b0d5109d02)
+![mvc_4](https://github.com/Mahmut-Coskun/ASP.NET-Core-Basic-MVC/assets/149428843/c8342d40-4284-4de1-a93c-9251c2e9be87)
+![mvc_5](https://github.com/Mahmut-Coskun/ASP.NET-Core-Basic-MVC/assets/149428843/6fb6f43b-5cdf-4310-93f5-947f7b8fc872)
+![mvc_6](https://github.com/Mahmut-Coskun/ASP.NET-Core-Basic-MVC/assets/149428843/981ec979-9e31-4f83-8053-cc65588f3eb5)
